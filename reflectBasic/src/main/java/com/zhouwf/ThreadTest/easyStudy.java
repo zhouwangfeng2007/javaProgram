@@ -1,4 +1,4 @@
-package com.zhouwf;
+package com.zhouwf.ThreadTest;
 
 public class easyStudy {
     public static void main(String[] args) {
